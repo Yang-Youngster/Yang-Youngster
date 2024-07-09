@@ -16,5 +16,6 @@
   - **QQ** : 3227595840
   - **E-mail** : yangyoungster@163.com
 - ⚡ **Personal Website** : 全网搜索 ''**肥肠教主**''
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yang-Youngster&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yang-Youngster&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
