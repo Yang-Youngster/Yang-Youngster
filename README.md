@@ -3,10 +3,9 @@
 > <a href="https://github.com/Yang-Youngster?tab=repositories">
 > <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yang-Youngster&show_icons=true&theme=radical" />
 > </a>
-
 - 🔭 **Studying in Chongqing University of Technology**
 - :office: **Education Level** ：Master
-- 🌱 **Learning** :
+- 🌱 **Skill Stack** :
   - [x] C / C++
   - [x] Java
   - [x] 嵌入式
