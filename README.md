@@ -5,7 +5,7 @@
 > </a>
 
 - 🔭 **Studying in Chongqing University of Technology**
-- **Education Level** ：Master
+- :office: **Education Level** ：Master
 - 🌱 **Learning** :
   - [x] C / C++
   - [x] Java
